@@ -1,0 +1,21 @@
+{
+  "name": "weki",
+  "version": "1.0.0",
+  "description": "A simple wiki site which collect manuals, tips, examples of web tech.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.233.147.78:zhaozeyu/weki.git"
+  },
+  "keywords": [
+    "wiki"
+  ],
+  "author": "zhaozeyu",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
